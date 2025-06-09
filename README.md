@@ -1,1 +1,33 @@
-Two Player Ping Pong Game is a fun and interactive game built using Python, designed for two players to compete in real time. The game replicates classic ping pong mechanics with added realism by incorporating basic physics concepts such as velocity, collision detection, and bounce angles. It features smooth paddle control, score tracking, and dynamic ball movement, making it both engaging and educational. A great example of combining game development with physics simulations using Python!
+🏓 2-Player Ping Pong Game – Built with Pygame + Physics
+
+This is a fast-paced and fun 2-player Ping Pong game built using Python and the Pygame library, incorporating basic physics concepts for realistic movement and collisions. The game is simple, competitive, and perfect for quick duels with a friend!
+
+🎮 Game Features:
+
+👬 2-player local mode – Play with a friend using keyboard controls.
+
+💥 Physics-based mechanics – Realistic ball bounce, paddle collisions, and speed increase over time.
+
+🎯 Score system – Tracks each player's score, first to 10 wins!
+
+🎨 Simple yet visually appealing retro-style interface.
+
+🛠️ Tech Stack:
+
+Python
+
+Pygame (for game development)
+
+Physics concepts like:
+
+Momentum
+
+Angle of reflection
+
+Speed variation on paddle hit
+
+🕹️ Controls:
+
+Player 1: W (up), S (down)
+
+Player 2: UP arrow (up), DOWN arrow (down)
